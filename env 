@@ -1,0 +1,9 @@
+# API metadata
+API_VERSION=v1
+
+# MongoDB configs
+MONGO_URI=
+
+
+# Client configs
+FRONTEND_DOMAINS=
